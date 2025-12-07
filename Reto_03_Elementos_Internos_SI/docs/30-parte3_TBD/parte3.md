@@ -3,7 +3,6 @@
 > URL: https://www.youtube.com/watch?v=ILOtkTXLUvg
 
 ## 0) Portada
-![alt text](/Reto_03_Elementos_Internos_SI/assets/img/10-parte1/portada_reto_03.jpg)
 - Alumno/a: Ugo Pérez Ruiz 
 - Grupo: ASIR1
 - Fecha: 6/12/2025
